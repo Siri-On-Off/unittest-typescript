@@ -60,3 +60,4 @@ export function standardDeviation(numbers: number[]): number {
   
    return sd;
 }
+// Kleine Änderung
